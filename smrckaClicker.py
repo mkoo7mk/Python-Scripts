@@ -3,5 +3,5 @@ import pyautogui
 from time import sleep
 
 while True:
-    sleep(2.5)
+    sleep(3)
     pyautogui.click()
