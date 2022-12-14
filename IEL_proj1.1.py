@@ -50,7 +50,7 @@ rekv = ra1 + rb68c7
 print('rekv', rekv)
 
 i = u12 / rekv
-
+print('i: ', i)
 i1a = i
 i68b7c = i
 ur1a = i * ra1
@@ -116,6 +116,9 @@ ir2 = (ur23 * r2) / (ur23 + r2)
 ir3 = (ur23 * r3) / (ur23 + r3)
 ur6 = ir68 * r6
 ur8 = ir68 * r8
+
+ur2 = i23 * r2
+print('ur2: ', ur2)
 
 print(f'Ir2 = {ir2}')
 print(f'Ir3 = {ir3}')
